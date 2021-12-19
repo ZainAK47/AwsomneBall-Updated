@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.awesomeball1-0-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Zain/Desktop/AwsomeBallGame ScoreBoard/AwesomeBall/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "AwesomeBall1.0-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}
